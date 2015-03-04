@@ -1,0 +1,4 @@
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent.lib\bin\Debug\StatAgent.Lib.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent.lib\bin\Debug\StatAgent.Lib.pdb
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent.lib\obj\Debug\StatAgent.Lib.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent.lib\obj\Debug\StatAgent.Lib.pdb

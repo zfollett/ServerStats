@@ -1,0 +1,1265 @@
+﻿Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\debug\StatAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\debug\StatAgent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\debug\StatAgent.InstallLog
+Installing service StatsAgentService...
+Creating EventLog source StatsAgentService in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\debug\StatAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\debug\StatAgent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\debug\StatAgent.InstallLog
+Restoring event log to previous state for source StatsAgentService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service StatsAgentService...
+Service StatsAgentService has been successfully installed.
+Creating EventLog source StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service StatsAgentService...
+Creating EventLog source StatsAgentService in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source StatsAgentService.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source StatsAgentService.
+Service StatsAgentService is being removed from the system...
+Service StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Creating EventLog source Stats Agent Service in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source Stats Agent Service.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Creating EventLog source Stats Agent Service in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source Stats Agent Service.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Warning: The source Stats Agent Service is not registered on the local machine.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Creating EventLog source Stats Agent Service in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Creating EventLog source Stats Agent Service in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Service Stats Agent Service has been successfully installed.
+Creating EventLog source Stats Agent Service in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Attempt to stop service Stats Agent Service.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Creating EventLog source Stats Agent Service in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source Stats Agent Service.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Warning: The source Stats Agent Service is not registered on the local machine.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service Stats Agent Service...
+Creating EventLog source Stats Agent Service in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source Stats Agent Service.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source Stats Agent Service.
+Warning: The source Stats Agent Service is not registered on the local machine.
+Service Stats Agent Service is being removed from the system...
+Service Stats Agent Service was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Creating EventLog source 1StatsAgentService in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Creating EventLog source 1StatsAgentService in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Warning: The source 1StatsAgentService is not registered on the local machine.
+Service 1StatsAgentService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Warning: The source 1StatsAgentService is not registered on the local machine.
+Service 1StatsAgentService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Warning: The source 1StatsAgentService is not registered on the local machine.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Warning: The source 1StatsAgentService is not registered on the local machine.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Creating EventLog source 1StatsAgentService in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source 1StatsAgentService.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Warning: The source 1StatsAgentService is not registered on the local machine.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Creating EventLog source 1StatsAgentService in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Attempt to stop service 1StatsAgentService.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Warning: The source 1StatsAgentService is not registered on the local machine.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Warning: The source 1StatsAgentService is not registered on the local machine.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Creating EventLog source 1StatsAgentService in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source 1StatsAgentService.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Creating EventLog source 1StatsAgentService in log Application...
+Rolling back assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Restoring event log to previous state for source 1StatsAgentService.
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.
+Installing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Installing service 1StatsAgentService...
+Service 1StatsAgentService has been successfully installed.
+Creating EventLog source 1StatsAgentService in log Application...
+Committing assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Uninstalling assembly 'C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.exe
+   logfile = C:\Users\zackf\Documents\Visual Studio 2013\Projects\StatAgent\StatAgent\bin\Debug\statagent.InstallLog
+Removing EventLog source 1StatsAgentService.
+Service 1StatsAgentService is being removed from the system...
+Service 1StatsAgentService was successfully removed from the system.

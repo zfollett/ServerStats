@@ -1,0 +1,22 @@
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\bin\Debug\ServerStats.Test.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\bin\Debug\ServerStats.Test.pdb
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\obj\Debug\ServerStats.Test.csprojResolveAssemblyReference.cache
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\obj\Debug\ServerStats.Test.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\obj\Debug\ServerStats.Test.pdb
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\bin\Debug\StatAgent.Lib.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\bin\Debug\StatAgent.Lib.pdb
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\bin\Debug\StatClient.Lib.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\bin\Debug\StatClient.Lib.pdb
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\ServerStats.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\bin\Debug\ServerStats.Test.dll
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\bin\Debug\ServerStats.Test.pdb
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\bin\Debug\StatAgent.Lib.dll
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\bin\Debug\StatClient.Lib.dll
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\bin\Debug\StatAgent.Lib.pdb
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\bin\Debug\StatClient.Lib.pdb
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\obj\Debug\ServerStats.Test.csprojResolveAssemblyReference.cache
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\obj\Debug\ServerStats.Test.dll
+C:\Users\zackf\Documents\OtherCode\StatAgent\ServerStats.Test\obj\Debug\ServerStats.Test.pdb

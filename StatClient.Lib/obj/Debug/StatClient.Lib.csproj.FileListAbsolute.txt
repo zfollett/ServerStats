@@ -1,0 +1,6 @@
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatClient.Lib\bin\Debug\StatClient.Lib.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatClient.Lib\bin\Debug\StatClient.Lib.pdb
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatClient.Lib\obj\Debug\StatClient.Lib.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatClient.Lib\obj\Debug\StatClient.Lib.pdb
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatClient.Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatClient.Lib\bin\Debug\Newtonsoft.Json.xml

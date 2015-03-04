@@ -1,0 +1,9 @@
+c:\users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\bin\Debug\StatAgent.exe.config
+c:\users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\bin\Debug\StatAgent.exe
+c:\users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\bin\Debug\StatAgent.pdb
+c:\users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\obj\Debug\StatAgent.exe
+c:\users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\obj\Debug\StatAgent.pdb
+c:\users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\bin\Debug\App.config
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\obj\Debug\StatAgent.csprojResolveAssemblyReference.cache
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\bin\Debug\StatAgent.Lib.dll
+C:\Users\zackf\documents\visual studio 2013\Projects\StatAgent\StatAgent\bin\Debug\StatAgent.Lib.pdb
